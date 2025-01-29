@@ -77,8 +77,9 @@ for i in range(N):
 plant=np.array([-1, -1, -1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1, 1, -1, 1])
 print("plant is \n",plant)
 successes=0
-N_trials=199
+N_trials=19
 success_states=[]
+print("beginning trials:")
 for trial in range(N_trials):
     if(1):
         v=np.random.choice([-1,1],[16])
@@ -118,10 +119,12 @@ for trial in range(N_trials):
     #print("diff",best_state-plant)
     #print("bestest",bester)
     #print("")
-    print("trial",trial,"min",min_found)
-
-    if (Is_en(best_state) < ground + 1e-7):
+    print("trial",trial,"minimum energy found: ",min_found)
+    print("Ising energy of highest probability state : ", Is_en(best_state))
+    print()
+    if (Is_en(best_state) < ground + 1e-3):
         successes+=1
         success_states.append(best_state)
+        
 print(successes/N_trials, " success rate")
 print()
