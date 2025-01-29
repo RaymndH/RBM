@@ -1,0 +1,10 @@
+wishart_planting_N_16_alpha_0.75_inst_1.txt	-6.9877420e+00
+wishart_planting_N_16_alpha_0.75_inst_2.txt	-5.7873840e+00
+wishart_planting_N_16_alpha_0.75_inst_3.txt	-6.7614075e+00
+wishart_planting_N_16_alpha_0.75_inst_4.txt	-6.1960487e+00
+wishart_planting_N_16_alpha_0.75_inst_5.txt	-6.5025773e+00
+wishart_planting_N_16_alpha_0.75_inst_6.txt	-5.9361775e+00
+wishart_planting_N_16_alpha_0.75_inst_7.txt	-6.2163716e+00
+wishart_planting_N_16_alpha_0.75_inst_8.txt	-6.1005664e+00
+wishart_planting_N_16_alpha_0.75_inst_9.txt	-6.0328150e+00
+wishart_planting_N_16_alpha_0.75_inst_10.txt	-6.5542108e+00
