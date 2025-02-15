@@ -8,4 +8,4 @@ Included are Wishart examples of various hardness. Wishart problems show promise
 
 ![New Project](https://github.com/user-attachments/assets/4ad4ddf9-e91d-4637-8e03-361d3d1bbc18)
 
-Example of a N=5 Wishart problem as an RBM. Each of the edges connected the nodes corresponds to a value from the matrix.
+Example of a N=5 Wishart problem as an RBM. Each of the edges connected the nodes corresponds to a value from the matrix. Information flows in two stages, from the hidden layer to the visible layer and back, eventually converging on a state which will usually have a low Ising energy.
