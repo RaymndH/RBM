@@ -1,4 +1,4 @@
-#Restricted Boltzmann Codes
+# Restricted Boltzmann Machine Codes
 
 Python code to investigate usage of a restricted Boltzmann machine (RBM) on solving Ising Problems of various hardness
 
